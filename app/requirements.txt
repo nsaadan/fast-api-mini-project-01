@@ -1,2 +1,13 @@
 fastapi
 uvicorn
+
+#for static files
+aiofiles
+
+#for database 
+sqlalchemy   
+psycopg2-binary
+
+
+#for loading environment variables 
+python-dotenv
